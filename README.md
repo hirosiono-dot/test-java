@@ -7,7 +7,7 @@
 # ローカルでの実行
 ```
 # ビルド
-mvn clean pacage
+mvn clean package
 
 # 実行
 java -jar target/spring-boot-demo-1.0.0.jar
